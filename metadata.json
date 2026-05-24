@@ -1,0 +1,6 @@
+{
+  "name": "Inconnu Dark AI",
+  "description": "Un puissant assistant IA sombre capable de répondre à tout, d'analyser vos fichiers ZIP et images, et de transcrire automatiquement vos enregistrements audio en texte hautement structuré.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
